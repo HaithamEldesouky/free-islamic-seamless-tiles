@@ -2,6 +2,8 @@
 
 ![preview](preview.png)
 
+**[Download all files (ZIP)](https://github.com/HaithamEldesouky/free-islamic-seamless-tiles/archive/refs/heads/main.zip)**
+
 Two seamless Islamic geometric tiles, 512 x 512 px. They repeat with no visible seam,
 so you can use them as backgrounds, game floors, wrapping paper or card designs.
 
